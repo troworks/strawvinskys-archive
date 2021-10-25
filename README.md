@@ -1,2 +1,2 @@
-# tro
-its a repository dummy
+# strawvinskys archive
+archive
