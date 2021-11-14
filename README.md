@@ -1,2 +1,3 @@
 # strawvinskys archive
-if your reading this ignore it
+This archives the history and old logs found
+In the strawvinsky storage unit
